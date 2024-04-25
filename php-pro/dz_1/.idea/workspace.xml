@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd533654-f0a9-4e56-8382-8e5a9915e538" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DZ_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php-basic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dz_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php_dz/LAB 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php_dz/lab1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php_dz/lab1/.idea/lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php_dz/lab1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php_dz/lab1/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php_dz/lab1/.idea/remote-mappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php_dz/lab1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php_dz/lab1/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php_dz/lab1/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php_dz/lab1/form1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php_dz/lab1/form2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php_dz/lab1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php_dz/lab1/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2epkXispGd426SbK7Hhr0MEFwkf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Влад/Documents/Progect/PHP/php-pro",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd533654-f0a9-4e56-8382-8e5a9915e538" name="Changes" comment="" />
+      <created>1712608948924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712608948924</updated>
+      <workItem from="1712608950090" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
