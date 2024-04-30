@@ -79,6 +79,6 @@ class Car extends BaseEntity {
     }
 
     public function getDescription() {
-        return $this->getName() . " - " . $this->brand . " " . $this->model . " (" . $this->year . ")";
+        return $this->getName() . " - " . $this->brand . " " . $this->model . " (" . $this->year . ")"." (" . $this->vin . ")";
     }
 }
